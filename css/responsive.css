@@ -1,0 +1,261 @@
+
+
+@media only screen and (min-width:320px) and (max-width:460px){
+
+
+.ragister { margin: 0px;}
+.languagebg { margin-right: 7px; }
+.global { margin-top:2%; margin-left: 0px;}
+.languagebg span { font-size: 13px; }
+ul.tabs { margin-bottom: 28px; }
+ul.tabs li { width: 100%; }
+.small_box { width: 100%; }
+.pixbg { margin-left: 20%; width:80%;}
+.pixbox {width: 100%; margin: 5% 0% 15% 0%; float: none; /*border:none;*/}
+.matter { text-align: center; }
+.textbg { width: 75% }
+.page {left: 25%;}
+.save { width:inherit; float:none; height:45px; padding:2%; margin-left:0%;}
+.hid { width: 100%; height: 45px; margin-top: 5%; float: none; }
+.job { width: 100%; float: none;  }
+.more_job {width: 100%;height: 45px;}
+.upload_pic { float:none; margin: 28px 50px;width: 70%;}
+.upload { float: none; }
+.uplaod_bg { float: none; }
+.advertisement { margin-top: 10px; }
+.buton_bg { margin-left: -10%; float: none; width: 100%;}
+.relationship { width: 100%; left: 0%; margin-left: 0%; }
+.profile_pixbox { width: 100%; float: none; }
+.pixbg { width: 100%; float: none; margin-left: 0%; }
+.dummy_pixbox { width: 100%; float: none; }
+.buton_bg { margin-left: 0%; }
+.full_img { width: 100% !important; }
+.confirm {  margin-left: 0%; }
+#lightbox-panel { width:78%; left: 0%; }
+.tab-content { width: 100%; }
+.advertisement span { font-size: 19px; }
+.location_bg { width: 100%; float: none; margin: 0%; font-size: 11px; }
+.lifestyle_bg { width: 84%;}
+.navbar-nav { margin: 0px -15px; }
+#login-dp{margin-left: -144%;background-color: #242424;}
+.icon-bar { background-color: #000 !important; }
+.lines { border-right: 0px; float: none; height: 0px;}
+.mail_bg .mail_pic {min-height: 150px; width: 45%;}
+.mail_page {height: 150px; }
+.send_date { font-size: 9px; }
+.type_message { float: right; width: 100%; font-size: 13px; }
+.Capricorn samp { width: 100%; }
+.pixbox1 { min-height:90px; }
+.popbox_image { height: 90px; width:100%;}
+.upload_pic2 { float: none; }
+.popbox_image2 { height: 304px; }
+#uploadresume { margin-top: 10px; }
+.uploadresume {margin-top: 10px;}
+.save_profile { padding: 3.3% 6%;}
+#update_profile_image { margin-bottom: 10px; }
+input[type=text] { margin-top: 10px;}
+.upload_pic3 { margin-bottom: 10px; float: none;}
+.update { padding: 8.3% 41.5%; margin-top: 10px; }
+.job_image { height: 330px;width: 100%;}
+.update2 { margin-top: 10px; padding: 8.3% 38.5%; }	
+.showbox span { font-size: 10px; }
+.message_box_text{ width: 100% !important; }
+.front_pixbox{width: 100%;min-height: 300px;}
+.front_img{height: 300px;}
+.front_quote p.encouraging{font-size: 18px;}
+.front_quote p.easyto{font-size: 17px;}
+.front_quote p.exciting{font-size: 18px;}
+.free-100{text-align: center;}
+#testinomials{padding : 0px 0px;}
+.mydate {font-size: 40px;text-align: center;}
+.meetpeople {font-size: 30px;text-align: center;}
+.createprofile {font-size: 32px;text-align: center;}
+}
+
+
+
+
+
+@media only screen and (min-width:320px) and (max-width:350px){
+
+.update { padding: 8.3% 40%; margin-top: 10px; }
+.update2 { margin-top: 10px; padding: 8.3% 38.5%; }	
+}
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:799px){
+
+.main_header { padding: 0px; }
+.save {padding: 6% 1% !important; margin-bottom:18%;}
+.hid {padding: 1.3% 2.6%;}
+ul.tabs li { width: 17%; margin: 0% 2% 1% 0%; padding: 10px;}
+.location_bg { width: 70%; float: left; }
+.uplaod_bg {width: 30%;}
+ul.tabs li:last-child { margin-right: 0px !important;}
+.full_img {height: 200px; } 
+.profile_pixbox { min-height: 140px; }
+.dummy_pixbox { height: 209px; padding: 1.2%; }
+.save_profile { margin-top:0.7%; padding: 1.4% 2.5%; margin-right:5%;}
+.middle { min-height: 570px;}
+.advertisement span { font-size: 18px; }
+.top_nav ul li { margin-right: 13px; }
+.pixbox { min-height: 200px;}
+.global { margin-left: 0px; }
+.lines { border-right: 0px; float: none; height: 0px;}
+.mail_bg .mail_pic { width: 31%; margin: 0% 2% 5% 0%; }
+.send_date { width: 30%; font-size: 12px; }
+.pixbox1 { width: 24%;  min-height: 179px; margin-right: 1%;}
+.location_bg  { width: 80%; margin: 10%; }
+.update { padding: 7.3% 28.5%; margin-top: 10px; }
+.upload_pic3 { margin-bottom: 10px;}
+.update2 { margin-top: 10px; padding: 8.3% 28.5%; }	
+.showbox span { font-size: 10px; }
+.message_box_text{ width: 69% !important; }
+/*.copyright_text { margin-left: 27%; }*/
+.mydate {font-size: 59px;}
+.meetpeople {font-size: 39px;margin-left: 5%;margin-top: -2%;}
+
+
+}
+
+
+@media only screen and (min-width:800px) and (max-width:979px){
+
+.middle {min-height:720px;}
+.save {padding: 11% 1% !important; margin-bottom:18%;}
+.hid {padding: 1.3% 2.6%;}
+ul.tabs li { width: 17%; margin: 0% 2% 1% 0%; padding: 10px;}
+.location_bg { width: 70%; float: left; }
+.uplaod_bg {width: 30%;}
+ul.tabs li:last-child { margin-right: 0px !important;}
+.sub_top { padding: 30px 0px 0px 0px;}
+.lines { border-right: 0px; float: none; height: 0px;}
+.mail_bg .mail_pic { width: 31%; margin: 0% 2% 5% 0%; }
+.send_date { width: 30%; font-size: 12px; }
+.pixbox1 { width: 24%;  min-height: 179px; margin-right: 1%;}
+.location_bg  { width: 80%; margin: 10%; }
+.save_profile { margin-top:0.7%;padding: 1.4% 2.5%; margin-right:5%;}
+.advertisement span { font-size: 19px; }
+.global { margin-top:2%; margin-left: 0px;}
+.update { padding: 7.3% 28.5%; margin-top: 10px; }
+.upload_pic3 { margin-bottom: 10px;}
+.copyright_text { margin-left: 27%; }
+.full_img {height: 200px; } 
+.profile_pixbox { min-height: 140px; }
+.dummy_pixbox { height: 209px; padding: 1.2%; }
+.middle { min-height: 570px;}
+.pixbox { min-height: 200px;}
+.middle {min-height: 663px;}
+.middle1 {min-height:1050px;}
+
+}
+
+
+
+
+
+@media only screen and (min-width:980px) and (max-width:1024px){
+.top_nav ul li { margin-right: 12px; }
+.hid {padding: 1.3% 2.6%;}
+ul.tabs li { width: 17%; margin: 0% 2% 1% 0%; padding: 10px;}
+.location_bg { width: 70%; float: left; }
+.uplaod_bg {width: 30%;}
+ul.tabs li:last-child { margin-right: 0px !important;}
+.middle {min-height:720px;}
+.lines { border-right: 0px; float: none; height: 0px;}
+.mail_bg .mail_pic { width: 31%; margin: 0% 2% 5% 0%; }
+.send_date { width: 30%; font-size: 12px; }
+.pixbox1 { width: 24%;  min-height: 179px; margin-right: 1%;}
+.location_bg  { width: 80%; margin: 10%; }
+.save_profile { margin-top:0.7%; padding: 1.4% 2.5%; margin-right: 5%;}
+.advertisement span { font-size: 19px; }
+.global { margin-top:2%; margin-left: 0px;}
+.update { padding: 7.3% 28.5%; margin-top: 10px; }
+.upload_pic3 { margin-bottom: 10px;}
+.copyright_text { margin-left: 27%; }
+.full_img {height: 200px; } 
+.profile_pixbox { min-height: 140px; }
+.dummy_pixbox { height: 209px; padding: 1.2%; }
+.middle { min-height: 570px;}
+.pixbox { min-height: 200px;}
+.middle { min-height:730px;}
+.middle1 {min-height: 1100px;}
+}
+
+
+
+
+
+
+
+
+/*-------------------------Landscap size-------------*/
+
+
+@media only screen and (min-width:480px) and (max-width:800px){
+
+.navbar-nav {margin: 0px -15px;}
+/*.copyright_text { margin-left: 38px;}*/
+.global { margin-left: 0%; }
+.buton_bg { width: 30%; }
+.dummy_pixbox { width: 30%; }
+.profile_pixbox {width: 14%;min-height: 228px;}
+.full_img { height: 228px;}
+.save { margin-bottom: 35%; }
+ul.tabs li { width:19%; }
+.save_profile { margin-top: 0%;/* padding: 3.3% 6%;*/ margin-right: -14px; }
+.job { padding: 3% 8%; }
+.advertisement { margin-top: 10px; }
+ul.tabs li { margin-right: 0%; }
+#lightbox-panel { width: 97%;  left: 2%; }
+.confirm { margin-left: 16%; }
+#lightbox-panel2 { left: 2%; width: 95%; }
+.lines { border-right: 0px; float: none; height: 0px;}
+
+.location_bg { width: 98%; margin: 4% 3% 0% 1%;}
+.lifestyle { width: 13%; }
+.save_profile { margin-right: 0px; }
+.pixbox { width: 46.9%; min-height: 173px; }
+
+
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (min-width:640px) and (max-width:800px){
+
+.navbar-nav {margin: 0px -15px;}
+/*.copyright_text { margin-left:120px;}*/
+.save {margin-bottom: 4%;}
+}
+
+
+@media only screen and (min-width:800px) and (max-width:1023px){
+
+.dummy_pixbox {height: 230px;}
+.save {margin-bottom:5%;}
+.job { padding: 7.3% 21%; }
+.save_profile { padding: 2% 6%; }
+.full_img {height: 357px;}
+
+}
+
+
+
+@media only screen and (min-width:1024px) and (max-width:1279px){
+
+.save {padding: 7% 1% !important;}
+.save_profile { margin-right: 4%; }
+.middle {min-height: 600px;}
+.job { padding: 7.3% 16%; }
+.save_profile { margin-right: 5%;}
+
+}

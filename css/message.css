@@ -1,0 +1,68 @@
+/*.container { 
+
+width:500px; 
+
+margin:0 auto; 
+
+}
+
+a{
+
+text-decoration:none;
+
+}
+
+h2 {
+
+font-size:20px; 
+
+color:#03C;
+
+}
+
+.load {
+
+color:#06C;
+
+}
+
+input { 
+
+float:right;
+
+}*/
+
+.space { 
+
+margin-bottom:25px; 
+
+margin-top:10px;
+
+}
+
+.showbox { 
+position: relative;
+
+    width: 100%;
+    color: #033;
+    font-weight: bold;
+    word-wrap: break-word;
+    font-size: 14px;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-bottom: 5px;
+    min-height: auto;
+    left: 0px;
+
+}
+.send_date
+{
+    width: 20%;
+    margin-top: -3%;
+    border-bottom: 1px #09C solid;
+   /* position: absolute;*/
+    right: 0px;
+    height: 76px; padding: 2%;
+}
+
+.message_box_text{border-bottom: 1px #09C solid;width: 72%; margin-right:2%;
+/*position: absolute;*/text-align: justify;display: inline-block;left: 0px;padding: 2%;}

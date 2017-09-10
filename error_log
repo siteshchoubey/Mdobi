@@ -1,0 +1,1 @@
+[29-Sep-2016 06:30:12 UTC] PHP Fatal error:  Call to undefined function php_info() in /home/mdobi/public_html/test_mail.php on line 33
